@@ -1,6 +1,6 @@
 # My Movie Browser
 
-Link for my website: https://hirazuku.github.io/my-movie-browser/
+Link for my website: https://hirazuku.github.io/my-movie-browser-react/
 
 ![animation](gif/Animation.gif)
 
