@@ -6,7 +6,7 @@ Link for my website: https://hirazuku.github.io/my-movie-browser-react/
 
 ## Description
 
-This app was built for searching films and information about them. You can check actors, cast etc. 
+This app was built for searching films and information about them. You can check actors, cast etc. Data about films is provided via api.
 
 On this project we were working in a group of 3 people using Srum, Trello and Figma, so we are now better at working in teams.
 
