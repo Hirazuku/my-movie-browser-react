@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/my-movie-browser/static/js/main.9a9e0dce.js",
+    "static/js/453.1300a448.chunk.js": "/my-movie-browser/static/js/453.1300a448.chunk.js",
+    "index.html": "/my-movie-browser/index.html",
+    "main.9a9e0dce.js.map": "/my-movie-browser/static/js/main.9a9e0dce.js.map",
+    "453.1300a448.chunk.js.map": "/my-movie-browser/static/js/453.1300a448.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9a9e0dce.js"
+  ]
+}
