@@ -9,7 +9,7 @@ export const useExampleTasks = () => {
     useEffect(() => {
         const fetchTasks = async () => {
             try {
-                const response = await axios.get("/todo-list-react/exampleTasks.json");
+                const response = await axios.get("/my-movie-browser-react/exampleTasks.json");
 
                 const { content, id } = await response.data;
 
