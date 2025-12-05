@@ -6,10 +6,10 @@ const Navigation = () => {
         <nav>
             <List>
                 <ListItem>
-                    <StyledNavLink to={toTasks()}>Zadania</StyledNavLink>
+                    <StyledNavLink to={toTasks()}>Movies</StyledNavLink>
                 </ListItem>
                 <ListItem>
-                    <StyledNavLink to={toAuthor()}> O autorze</StyledNavLink>
+                    <StyledNavLink to={toAuthor()}> People</StyledNavLink>
                 </ListItem>
             </List>
         </nav>

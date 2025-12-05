@@ -12,6 +12,7 @@ export const theme = {
         brightGrey: "#888888",
         teal: "#008080",
         brightTeal: "#26dfdfff",
+        whisper: "#f5f5fa",
     },
     breakpoints: {
         mobile: 767,

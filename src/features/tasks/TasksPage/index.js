@@ -14,15 +14,13 @@ function TasksPage() {
 
     <Container>
       <Header
-        title="Lista zadań"
+        title="Movie browser"
       />
 
       <Section
-        title="Dodaj nowe zadanie"
-        extraHeaderContent={<ExampleTasksButton />}
-        body={
-          <Form />
-        }
+        title="Saw VI"
+        extraHeaderContent={<Form/>}
+        body="Piękna bajka dla dzieci. Zalecane przed oglądaniem założenie pampersa."
       />
 
       <Section

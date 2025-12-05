@@ -14,8 +14,8 @@ html {
 .body {
     margin: auto; 
     color: ${({ theme }) => theme.colors.black};
-    background-color: ${({ theme }) => theme.colors.white};
-    font: 25px/2 'Oswald', sans-serif;
+    background-color: ${({ theme }) => theme.colors.whisper};
+    font-family: 'Poppins', sans-serif;
     padding: 0px 0px;
 }
 `

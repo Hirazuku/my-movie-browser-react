@@ -25,7 +25,7 @@ export const StyledNavLink = styled(NavLink).attrs(() => ({
 export const List = styled.ul`
     margin: 0px 0;
     padding: 5px;
-    background-color: ${({ theme }) => theme.colors.teal};
+    background-color: ${({ theme }) => theme.colors.black};
     list-style-type: none;
     text-decoration: none;
     min-height: 50px;

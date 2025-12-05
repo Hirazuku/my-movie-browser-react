@@ -1,15 +1,22 @@
-import { StyledSection, SectionGrid, SectionTitle } from "./styled";
+import { SectionGrid, SectionImage, SectionContent, SectionTitle, SectionYear, SectionTags, SectionTag, SectionDescription } from "./styled";
+import poster from "../../images/image.jpg"
 
 const Section = ({ title, body, extraHeaderContent }) => (
-    <StyledSection>
-        <SectionGrid>
+
+    <SectionGrid>
+        <SectionImage src={poster} />
+        <SectionContent>
             <SectionTitle>
                 {title}
             </SectionTitle>
-            {extraHeaderContent}
-        </SectionGrid>
-        {body}
-    </StyledSection>
+            <SectionYear>2009</SectionYear>
+            <SectionTags>
+                <SectionTag>Horror</SectionTag>
+                <SectionTag>Thriller</SectionTag>
+            </SectionTags>
+            <SectionDescription>{body}{extraHeaderContent}</SectionDescription>
+        </SectionContent>
+    </SectionGrid>
 )
 
 export default Section;

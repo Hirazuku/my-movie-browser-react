@@ -24,10 +24,6 @@ function AuthorPage() {
             <h4 class="article__header article__header--boldItalic">"Po co gadać, jeśli wszystko wiadomo, a jeśli nic
               nie wiadomo, to po co gadać?"
             </h4>
-            <p>W wolnym czasie lubię m.in. malować. Poniżej praca, którą aktualnie tworzę z anime "Demon Slayer"</p>
-            <Image>
-              <ImageList src="https://i.postimg.cc/1RqcPnqQ/Obraz.jpg" />
-            </Image>
           </>
         }
       />
