@@ -25,6 +25,7 @@ function TasksPage() {
 
       <Section
         title="Wyszukiwarka"
+        extraHeaderContent={<ExampleTasksButton/>}
         body={
           <Search />
         }
